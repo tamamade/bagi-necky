@@ -45,7 +45,7 @@ body {
   height: 100vh;
   position: fixed;
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.436) 0%, rgba(0, 0, 0, 0.822) 100%),
-    url(assets/img/openner-img.jpg);
+    url(assets/img/openner-img.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -80,7 +80,7 @@ body {
 #jumbotron .container-fluid {
   height: 100vh;
   /* background: linear-gradient(180deg, rgba(0, 0, 0, 0.436) 0%, rgb(0, 0, 0) 100%), url(assets/img/mockup-asset-jumbo.png); */
-  background-image: url(assets/img/jumbotron-img.jpg);
+  background-image: url(assets/img/jumbotron-img2.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
